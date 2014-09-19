@@ -1,0 +1,19 @@
+{
+
+"info":{
+  "course":"sarulian-01",
+  "pack":"001"
+}
+
+"cards":[
+  {"src":"Hello.","dst":"Vondisi."},
+  {"src":"Hi.","dst":"Vondis."},
+  {"src":"Bye.","dst":"Quash."},
+  {"src":"Goodbye.","dst":"Quashi."},
+  {"src":"My name is $$a:x:.","dst":"Morigia $$a:x:."},
+  {"src":"What is your name?","dst":"Zum morogiso?"}
+]
+
+"wildo":{"a":"names"}
+
+}
